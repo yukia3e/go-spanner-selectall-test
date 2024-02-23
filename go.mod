@@ -1,6 +1,6 @@
 module github.com/yukia3e/go-spanner-selectall-test
 
-go 1.22.0
+go 1.21.7
 
 require (
 	cloud.google.com/go/spanner v1.57.0
